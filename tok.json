@@ -1,6 +1,15 @@
 {
+    "item.minecraft.acacia_stairs": "test string",
     "item.hexcasting.book": "lipu suli pi sona wawa",
-    "item.hexcasting.staff.oak": "palisa pi kasi seli wawa",
+    "item.hexcasting.subtitle": "nanpa wan",
+    "item.hexcasting.staff.oak": "palisa wawa pi kasi kiwen",
+    "item.hexcasting.staff.spruce": "palisa wawa pi kasi lete",
+    "item.hexcasting.staff.birch": "palisa wawa pi kasi walo",
+    "item.hexcasting.staff.jungle": "palisa wawa pi kasi suli",
+    "item.hexcasting.staff.acacia": "palisa wawa pi kasi seli",
+    "item.hexcasting.staff.dark_oak": "palisa wawa pi kasi pimeja",
+    "item.hexcasting.staff.mangrove": "palisa wawa pi kasi telo",
+    "item.hexcasting.staff.cherry": "palisa wawa pi kasi suwi",
     "item.hexcasting.amethyst_dust": "ko pi kipisi pi kiwen kalama",
     "item.hexcasting.spellbook": "lipu suli wawa",
     "item.hexodus.ballast": "ilo pi anpa ante"
